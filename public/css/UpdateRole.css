@@ -1,0 +1,26 @@
+.UpdateRole-Body{
+    margin-top: 150px;
+    width: 100%;
+    height: 600px;
+}
+
+.UpdateRole-Positioning{
+    padding-top: 50px;
+    margin-left: 30%;
+    text-align: center;
+}
+
+.UpdateRole-Title{
+    color: whitesmoke;
+    width: 300px;
+}
+
+.UpdateRole-Role{
+    margin-top: 70px;
+}
+
+.UpdateRole-input-form{
+    color: white;
+    width: 200px;
+    margin-left: 100px;
+}
